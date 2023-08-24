@@ -14,5 +14,5 @@ Bu projenin amacı, tarımın zorluklarına modern teknoloji çözümleri sunara
 - *Otomatik Sulama*: Toprağın nem seviyesine göre otomatik sulama yapabilir.
 - *Uzaktan Kontrol*: Kullanıcıya tarım alanı hakkında gerçek zamanlı veri sağlar ve uzaktan kontrol imkanı sunar.
 
----
+
 
