@@ -16,4 +16,3 @@ Bu projenin amacı, tarımın zorluklarına modern teknoloji çözümleri sunara
 
 ---
 
-Bu giriş, projenin amacını, özelliklerini ve tarım sektöründeki potansiyel etkisini daha ayrıntılı bir şekilde açıklar. Bu bilgiler, projenin neyle ilgili olduğunu ve hangi sorunları çözmeye çalıştığını daha iyi anlamak için okuyucuya yardımcı olacaktır.
