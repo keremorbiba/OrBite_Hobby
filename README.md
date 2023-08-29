@@ -1,6 +1,6 @@
-# Agricultural Robot
+# OrBite Hobby
 
-`Agricultural Robot`, modern tarım uygulamalarını desteklemek için tasarlanmış otomatik ve otonom bir tarım motoru yazılımıdır. Bu yazılım, tarım alanlarında verimliliği artırmak, iş yükünü azaltmak ve tarım pratiğini daha sürdürülebilir hale getirmek için geliştirilmiştir.
+`OrBite Hobby`, modern tarım uygulamalarını desteklemek için tasarlanmış otomatik ve otonom bir tarım motoru yazılımıdır. Bu yazılım, tarım alanlarında verimliliği artırmak, iş yükünü azaltmak ve tarım pratiğini daha sürdürülebilir hale getirmek için geliştirilmiştir.
 
 Bu robot, toprak analizi, bitki tespiti, engel algılama ve otomatik sulama gibi bir dizi görevi otomatik olarak gerçekleştirebilir. Gelişmiş sensörleri sayesinde, tarım alanının detaylı bir haritasını oluşturabilir ve bu haritayı belirli görevleri planlamak için kullanabilir. Ayrıca, uzaktan kontrol edilebilir bir arayüze sahip olup, kullanıcıya gerçek zamanlı veri sağlama yeteneğine sahiptir.
 
